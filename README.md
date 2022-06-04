@@ -21,9 +21,9 @@ STEPS:
      - internet data used
      - COSTS
 3. analyze data
-   - summarize user behavior
-   - build grafs
-   - describe: dispersion, mean, std
+   - make database for each tariff
+   - analyze means, dispersion and standard deviation
+   - build histograms and describe the distribution
 4. test the hypothesis
    - profits are different for each plan
    - profits in "Moscow" are different from other regions
