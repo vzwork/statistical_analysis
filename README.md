@@ -10,15 +10,15 @@ DATA:
 - 500 user and data about them
 
 STEPS:
-1. open files and look over data
+1. open files and scan data
 2. prepare data
-   - fix type
+   - fix data type
    - fix errors
    - generate (for each user and for each month)
      - number of calls
      - minutes
-     - texts
-     - data used
+     - messages
+     - internet data used
      - COSTS
 3. analyze data
    - summarize user behavior
@@ -33,6 +33,7 @@ STEPS:
 5. write a report
 
 (prices are shifted, because data is gather from other currency)
+
 Phone plan "Smart":
 - $550
 - 500 min. of calls, 50 texts, 15 gb of data
@@ -48,4 +49,5 @@ Phone plan "Ultra":
   - $1 per min. of calls
   - $1 per text
   - $150 per gb of data
+
 (all units round up. Web usage is counted at the end of the month.)
