@@ -1,3 +1,13 @@
+# Project Overview
+
+- Working with data from cell service provider
+- Comparing two plans and identifying advantages of each
+
+# Learning Points
+
+- Practical experience of setting Null Hypothesis
+- Practical experience testing the Null Hypothesis
+
 # Statistical Analysis
 
 Working with data starts from data preprocessing.
