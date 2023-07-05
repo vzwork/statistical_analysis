@@ -27,6 +27,7 @@ Hypothesis Test
 - Then we can reject the null hypothesis
 
 Calculating P-Value
-- Independent Sample Test - scipy.stats.ttest_ind()
-- Paired Sample Test - scipy.stats.ttest_1samp()
+- Independent Sample Test - scipy.stats.ttest_ind().p_value
+- Paired Sample Test - scipy.stats.ttest_rel().p_value
+- One Sample Test - scipy.stats.ttest_1samp().p_value
 
